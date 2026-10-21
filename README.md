@@ -1,4 +1,4 @@
 # hsl-color-test
 
 - HSL stand for Hue, Saturation, and Lightness
-- Try adjusting with the number and percentage 
+- Try adjusting with the number and percentage
